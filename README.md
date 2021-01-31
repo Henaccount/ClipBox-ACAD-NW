@@ -1,6 +1,6 @@
 # ClipBox-ACAD-NW (proof-of-concept, sample code, use at own risk)
 This script only works with a Navisworks Manage Installation and other prerequisites as explained here (see also for usecase):
-https://github.com/Henaccount/NW-HideByCoords-Faster
+https://github.com/Henaccount/NW-HideByCoords-Faster see also this video: https://youtu.be/YZskWnBrZkA
 
 It has been tested with Navisworks Manage 2020 together with Plant 3D 2021.
 
